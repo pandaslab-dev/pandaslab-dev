@@ -2,7 +2,7 @@
 
 Hello! My name is Andy, and I study and practice software engineering out of Oklahoma City.
 
-I currently work in enterprise IT support at OUHSC while finishing my B.S. in Software Engineering through WGU.
+I currently work in enterprise IT support while finishing my B.S. in Software Engineering through WGU.
 
 My background is a mix of troubleshooting, customer-facing technical support, design/media/music work, and building small software projects as I grow into engineering.
 
