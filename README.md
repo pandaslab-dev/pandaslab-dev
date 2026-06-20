@@ -1,15 +1,13 @@
-# Andy Mills
+# Andy Mills / pandaslab.dev 
 
 Hello! My name is Andy, and I study and practice software engineering out of Oklahoma City.
 
-I currently work in enterprise IT support at OUHSC while finishing my B.S. in Software Engineering through WGU. My background is a mix of troubleshooting, customer-facing technical support, design/media work, and building small software projects as I grow into engineering.
+I currently work in enterprise IT support at OUHSC while finishing my B.S. in Software Engineering through WGU.
 
-## Right Now I'm Focused On
+My background is a mix of troubleshooting, customer-facing technical support, design/media/music work, and building small software projects as I grow into engineering.
 
-- Java, TypeScript, SwiftUI, Python, and frontend fundamentals
-- Building small apps from idea to working prototype
-- Learning how to write cleaner, more maintainable code
-- Documenting my projects in a way that makes the learning process clear
+## Right Now I'm Focused On Java, TypeScript, SwiftUI, Python, and web/fullstack fundamentals.
+
 
 ## Featured Projects
 
