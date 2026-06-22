@@ -8,10 +8,10 @@ I'm Focused On Java, TypeScript, SwiftUI, Python, and web/fullstack fundamentals
 
 ## Some Featured Projects!
 
-- **PandaSlides** - live presentation app / media workflow experiment
-- **Flynn Island** - browser-based game experiment
-- **Oyler** - field-service software mock/demo
-- **2026 Experiments** - small SwiftUI, Python, and web experiments
-- **pandaslab.dev** - personal portfolio site
+- **PandaSlides** - React based live presentation app / media workflow experiment
+- **Flynn Island** - Phaser based browser-based game experiment
+- **Oyler** - My degree capstone - field-service software mock/demo
+- **2026 Experiments** - misc SwiftUI, Python, and web etc experiments
+- **pandaslab.dev** - my personal portfolio site
 
 I can be reached at [andymills.dev@gmail.com](mailto:andymills.dev@gmail.com), and I would be eager to be a part of your team.
