@@ -2,9 +2,7 @@
 
 Hello! My name is Andy, and I study and practice software engineering out of Oklahoma City.
 
-I work in enterprise IT support and I'm finishing my B.S. in Software Engineering through WGU, with a heavy background in graphic design.
-I'm Focused On Java, TypeScript, SwiftUI, Python, and web/fullstack fundamentals.
-
+I work in enterprise IT support and I'm finishing my B.S. in Software Engineering through WGU, with a background in graphic design.
 
 ## Featured Projects
 
