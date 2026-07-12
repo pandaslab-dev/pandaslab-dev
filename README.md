@@ -7,8 +7,8 @@ I work in enterprise IT support and I'm finishing my B.S. in Software Engineerin
 ## Featured Projects
 
 - **2026 Experiments** - misc projects, WIPs, lessons, Python, and web etc experiments
-- **PandaSlides** - React based live presentation app / media workflow experiment
-- **Flynn Island** - Phaser based browser-based game experiment
+- **PandaSlides-swift** - MacOS Presentation app made with Swift/SwiftUI
+- **Flynn Island** - Phaser based multiplayer web browser dog game
 - **Oyler** - My degree capstone - field-service software mock/demo
 - **pandaslab.dev** - my personal portfolio site
 
